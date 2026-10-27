@@ -1,0 +1,2222 @@
+[
+ {
+  "name": "demo index 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index 1440: images chargées (10)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo index: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo index: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo index: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo index: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien realisations.html#meyrueis",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre realisations.html#meyrueis",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien realisations.html#sejour-marvejols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre realisations.html#sejour-marvejols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien realisations.html#panoramique",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre realisations.html#panoramique",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien realisations.html#chanac",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre realisations.html#chanac",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien realisations.html#commerce-mende",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre realisations.html#commerce-mende",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien realisations.html#marvejols-immeuble",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre realisations.html#marvejols-immeuble",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise 1440: images chargées (4)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo entreprise: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo entreprise: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo entreprise: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo entreprise: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations 1440: images chargées (10)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo prestations: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo prestations: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo prestations: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo prestations: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: lien realisations.html#cuisine",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre realisations.html#cuisine",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien realisations.html#couloirs",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre realisations.html#couloirs",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien realisations.html#bois",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre realisations.html#bois",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations 1440: images chargées (63)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo realisations: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo realisations: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo realisations: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo realisations: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil 1440: images chargées (3)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo conseil: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo conseil: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo conseil: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo conseil: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: lien realisations.html#combles-mende",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: ancre realisations.html#combles-mende",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone 1440: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo zone: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo zone: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo zone: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo zone: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: lien realisations.html#commerce-mende",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: ancre realisations.html#commerce-mende",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien realisations.html#sejour-marvejols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: ancre realisations.html#sejour-marvejols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact 1440: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo contact: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo contact: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo contact: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo contact: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1440: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions 1440: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1440: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1440: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo mentions: ancres internes",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions: tel: = +33608319250",
+  "ok": true,
+  "info": "tel:+33608319250"
+ },
+ {
+  "name": "demo mentions: mailto: = contact@ideedeco-peintre.fr",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr"
+ },
+ {
+  "name": "demo mentions: noindex",
+  "ok": true,
+  "info": "noindex, nofollow, noarchive, noimageindex"
+ },
+ {
+  "name": "demo mentions: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions: lien index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: lien entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: lien prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: lien realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: lien conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: lien zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: lien contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: lien prestations.html#peinture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: ancre prestations.html#peinture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions: lien prestations.html#papier-peint",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: ancre prestations.html#papier-peint",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions: lien prestations.html#sols",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: ancre prestations.html#sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions: lien prestations.html#techniques",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: ancre prestations.html#techniques",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions: lien entreprise.html#environnement",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions: ancre entreprise.html#environnement",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions: lien mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions 1440: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1440: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index 1280: images chargées (10)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo index 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise 1280: images chargées (4)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo entreprise 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations 1280: images chargées (10)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo prestations 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations 1280: images chargées (63)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo realisations 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil 1280: images chargées (3)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo conseil 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo zone 1280: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo zone 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo contact 1280: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo contact 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1280: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo mentions 1280: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1280: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1280: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo mentions 1280: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 1280: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 390: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo index 390: images chargées (10)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo index 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo index 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 390: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo entreprise 390: images chargées (4)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo entreprise 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo entreprise 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 390: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo prestations 390: images chargées (10)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo prestations 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo prestations 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 390: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo realisations 390: images chargées (63)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo realisations 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo realisations 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 390: page servie (200/304)",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "demo conseil 390: images chargées (3)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo conseil 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo conseil 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 390: page servie (200/304)",
+  "ok": true,
+  "info": 304
+ },
+ {
+  "name": "demo zone 390: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo zone 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo zone 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 390: page servie (200/304)",
+  "ok": true,
+  "info": 304
+ },
+ {
+  "name": "demo contact 390: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo contact 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo contact 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 390: page servie (200/304)",
+  "ok": true,
+  "info": 304
+ },
+ {
+  "name": "demo mentions 390: images chargées (2)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 390: attribut alt présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 390: pas de débordement horizontal",
+  "ok": true,
+  "info": "0px"
+ },
+ {
+  "name": "demo mentions 390: aucune erreur JS ni ressource manquante",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "demo mentions 390: aucune requête externe",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "menu 390: bouton visible",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "menu 390: ouverture (aria-expanded, focus dans le menu)",
+  "ok": true,
+  "info": "{\"a\":\"true\",\"o\":true,\"f\":true}"
+ },
+ {
+  "name": "menu 390: Échap ferme et rend le focus",
+  "ok": true,
+  "info": "{\"a\":\"false\",\"o\":false,\"f\":true}"
+ },
+ {
+  "name": "menu: 7 pages principales (Mentions en pied de page)",
+  "ok": true,
+  "info": "index.html entreprise.html prestations.html realisations.html conseil.html zone.html contact.html"
+ },
+ {
+  "name": "pied de page: lien Mentions",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "menu 1440: burger masqué, liens visibles",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "clavier: premier Tab = lien « aller au contenu »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "filtre peinture: 5/16 fiches, compteur « 5 chantiers affichés »",
+  "ok": true,
+  "info": "{\"vis\":5,\"good\":true,\"pressed\":\"true\",\"cnt\":\"5 chantiers affichés\",\"h\":\"#peinture\"}"
+ },
+ {
+  "name": "filtre papier-peint: 6/16 fiches, compteur « 6 chantiers affichés »",
+  "ok": true,
+  "info": "{\"vis\":6,\"good\":true,\"pressed\":\"true\",\"cnt\":\"6 chantiers affichés\",\"h\":\"#papier-peint\"}"
+ },
+ {
+  "name": "filtre decoration: 4/16 fiches, compteur « 4 chantiers affichés »",
+  "ok": true,
+  "info": "{\"vis\":4,\"good\":true,\"pressed\":\"true\",\"cnt\":\"4 chantiers affichés\",\"h\":\"#decoration\"}"
+ },
+ {
+  "name": "filtre sols: 6/16 fiches, compteur « 6 chantiers affichés »",
+  "ok": true,
+  "info": "{\"vis\":6,\"good\":true,\"pressed\":\"true\",\"cnt\":\"6 chantiers affichés\",\"h\":\"#sols\"}"
+ },
+ {
+  "name": "filtre exterieur: 1/16 fiches, compteur « 1 chantier affiché »",
+  "ok": true,
+  "info": "{\"vis\":1,\"good\":true,\"pressed\":\"true\",\"cnt\":\"1 chantier affiché\",\"h\":\"#exterieur\"}"
+ },
+ {
+  "name": "filtre tout: 16/16 fiches, compteur « 16 chantiers affichés »",
+  "ok": true,
+  "info": "{\"vis\":16,\"good\":true,\"pressed\":\"true\",\"cnt\":\"16 chantiers affichés\",\"h\":\"\"}"
+ },
+ {
+  "name": "visionneuse: ouverture et légende",
+  "ok": true,
+  "info": "Pièce de l’ancien hôtel de Meyrueis après peinture  ·  1 / 4"
+ },
+ {
+  "name": "visionneuse: flèche droite",
+  "ok": true,
+  "info": "Entrée repeinte  ·  2 / 4"
+ },
+ {
+  "name": "visionneuse: Échap ferme et rend le focus",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "bouton annotations",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "bouton photos",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "filtre par adresse #sols",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "composer présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "composer: adresse mailto construite",
+  "ok": true,
+  "info": "mailto:contact@ideedeco-peintre.fr?subject=Demande d’information – Peinture&body=Bonjour,\n\nMon projet concerne : Peinture.\nCommune du chanti"
+ },
+ {
+  "name": "composer: message « Rien n’a été envoyé »",
+  "ok": true,
+  "info": "Votre logiciel de messagerie devrait s’ouvrir avec ce message prérempli. Rien n’a été envoyé : vérifiez le message puis envoyez-le depuis votre messagerie."
+ },
+ {
+  "name": "composer: la page n’a pas changé",
+  "ok": true,
+  "info": "http://127.0.0.1:8765/demo/contact.html"
+ },
+ {
+  "name": "composer: aucun faux message de succès",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: page servie (200/304)",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: 22 diapositives, départ 1 / 22",
+  "ok": true,
+  "info": "{\"c\":\"1 / 22\",\"h\":\"\",\"on\":\"couverture\",\"n\":1}"
+ },
+ {
+  "name": "touche → : diapo 2 et adresse #sommaire",
+  "ok": true,
+  "info": "{\"c\":\"2 / 22\",\"h\":\"#sommaire\",\"on\":\"sommaire\",\"n\":1}"
+ },
+ {
+  "name": "touche ← : retour diapo 1",
+  "ok": true,
+  "info": "{\"c\":\"1 / 22\",\"h\":\"#couverture\",\"on\":\"couverture\",\"n\":1}"
+ },
+ {
+  "name": "touche Fin : dernière diapo",
+  "ok": true,
+  "info": "{\"c\":\"22 / 22\",\"h\":\"#fin\",\"on\":\"fin\",\"n\":1}"
+ },
+ {
+  "name": "touche Début : première diapo",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "PageSuiv. et Espace",
+  "ok": true,
+  "info": "{\"c\":\"3 / 22\",\"h\":\"#etat\",\"on\":\"etat\",\"n\":1}"
+ },
+ {
+  "name": "bouton suivant",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "bouton précédent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "barre de progression",
+  "ok": true,
+  "info": "13.6364%"
+ },
+ {
+  "name": "sommaire: ouverture",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "sommaire: 22 entrées",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "sommaire: clic entrée 15 ferme et va à la diapo 15",
+  "ok": true,
+  "info": "{\"c\":\"15 / 22\",\"h\":\"#comparaison\",\"on\":\"comparaison\",\"n\":1}"
+ },
+ {
+  "name": "sommaire: bouton fermer",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "sommaire: Échap ferme",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: bouton plein écran présent",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: images",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: 17 images de fond",
+  "ok": true,
+  "info": "[]"
+ },
+ {
+  "name": "présentation: ancres",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: noindex",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: mention « non officielle »",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: lien presentation/index.html#sommaire",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#couverture",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#etat",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#conserver",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#pistes",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#comparaison",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#demo",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#confirmer",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#tests",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/index.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/entreprise.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/prestations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/realisations.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/conseil.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/zone.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/contact.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien demo/mentions.html",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#etat-visuel",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#etat-real",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#charte",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#p1",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#p1b",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#p2",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#p2b",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#p3",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#p3b",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#correspondance",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#correspondance2",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#images",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation: lien presentation/index.html#fin",
+  "ok": true,
+  "info": 200
+ },
+ {
+  "name": "présentation 1600: aucune erreur",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation: ouverture directe par #comparaison",
+  "ok": true,
+  "info": ""
+ },
+ {
+  "name": "présentation 1280x720: mode diapo",
+  "ok": true,
+  "info": "{\"flow\":false,\"ov\":0,\"on\":1,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 1280x720: pas de débordement",
+  "ok": true,
+  "info": "{\"flow\":false,\"ov\":0,\"on\":1,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 1024x768: mode diapo",
+  "ok": true,
+  "info": "{\"flow\":false,\"ov\":0,\"on\":1,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 1024x768: pas de débordement",
+  "ok": true,
+  "info": "{\"flow\":false,\"ov\":0,\"on\":1,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 768x1024: mode lecture",
+  "ok": true,
+  "info": "{\"flow\":true,\"ov\":0,\"on\":22,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 768x1024: pas de débordement",
+  "ok": true,
+  "info": "{\"flow\":true,\"ov\":0,\"on\":22,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 768: compteur suit le défilement",
+  "ok": true,
+  "info": "12 / 22"
+ },
+ {
+  "name": "présentation 390x844: mode lecture",
+  "ok": true,
+  "info": "{\"flow\":true,\"ov\":0,\"on\":22,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 390x844: pas de débordement",
+  "ok": true,
+  "info": "{\"flow\":true,\"ov\":0,\"on\":22,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 390: compteur suit le défilement",
+  "ok": true,
+  "info": "11 / 22"
+ },
+ {
+  "name": "présentation 844x390: mode lecture",
+  "ok": true,
+  "info": "{\"flow\":true,\"ov\":0,\"on\":22,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 844x390: pas de débordement",
+  "ok": true,
+  "info": "{\"flow\":true,\"ov\":0,\"on\":22,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 844: compteur suit le défilement",
+  "ok": true,
+  "info": "11 / 22"
+ },
+ {
+  "name": "présentation 1366x768: mode diapo",
+  "ok": true,
+  "info": "{\"flow\":false,\"ov\":0,\"on\":1,\"clip\":[]}"
+ },
+ {
+  "name": "présentation 1366x768: pas de débordement",
+  "ok": true,
+  "info": "{\"flow\":false,\"ov\":0,\"on\":1,\"clip\":[]}"
+ }
+]

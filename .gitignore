@@ -1,0 +1,5 @@
+# Copie de travail du site actuel, outils et scripts de génération : non publiés
+_source/
+_tools/
+_scripts/
+.DS_Store
